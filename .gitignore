@@ -1,0 +1,13 @@
+*.suo
+*.ncrunchproject
+*.ncrunchsolution
+*.user
+*.cache
+
+_ReSharper.Caches
+
+DanIk/obj
+DanIk/bin
+
+DanIk.Test/obj
+DanIk.Test/bin
